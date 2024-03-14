@@ -29,7 +29,7 @@ Run the below command to install CHR on the VPS
 
 MikroTik 7.10.2
 
-bash -c "$(curl -L https://github.com/metanetwebhosting/Install-MikroTik-CHR-on-vps/blob/main/metanet.sh)"
+bash -c "$(curl -L https://raw.githubusercontent.com/metanetwebhosting/Install-MikroTik-CHR-on-vps/main/metanet.sh)"
 
 Now reboot the VPS?
 
