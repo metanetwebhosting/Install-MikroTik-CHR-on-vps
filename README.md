@@ -5,12 +5,15 @@ Simple steps to install Mikrotik Cloud Hosted Router on any Cloud VM whether on 
 # Prerequisites:
 ----------------
 
-1: VPS should have a VNC access
-2: You will need the following network information:
+1: 
+VPS should have a VNC access
+2: 
+You will need the following network information:
     - IP Address
     - Net Mask
     - IP Gateway
-3: Sometimes, you may need to disable the Virtio driver!
+3: 
+Sometimes, you may need to disable the Virtio driver!
 
 # Information Gathering
 -----------------------
@@ -29,7 +32,7 @@ Run the below command to install CHR on the VPS
 
 MikroTik 7.10.2
 
-bash -c "$(curl -L https://raw.githubusercontent.com/azadrahorg/Install-MikroTik-CHR-on-VPS/main/mik78.sh)"
+bash -c "$(curl -L https://github.com/metanetwebhosting/Install-MikroTik-CHR-on-vps/blob/main/metanet.sh)"
 
 Now reboot the VPS?
 
