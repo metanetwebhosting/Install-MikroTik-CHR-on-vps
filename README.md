@@ -5,14 +5,12 @@ Simple steps to install Mikrotik Cloud Hosted Router on any Cloud VM whether on 
 # Prerequisites:
 ----------------
 
-1: <be>VPS should have a VNC access
-2: 
-You will need the following network information:
+1: VPS should have a VNC access</br>
+2: You will need the following network information:
     - IP Address
     - Net Mask
-    - IP Gateway
-3: 
-Sometimes, you may need to disable the Virtio driver!
+    - IP Gateway</br>
+3: Sometimes, you may need to disable the Virtio driver!
 
 # Information Gathering
 -----------------------
